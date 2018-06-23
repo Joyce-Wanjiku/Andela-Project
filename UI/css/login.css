@@ -1,0 +1,58 @@
+.bg{
+    background-color: blue;
+    height:100%;
+    position: relative;
+    margin:30px;
+}
+
+
+.input-div{
+    position: absolute;
+    margin: auto;
+    background-color:white;
+    padding: 20px;
+    top:0;
+    right:0;
+    left:0;
+    bottom:0;
+    height: 50%;
+}
+
+
+/*Labels css*/
+
+label.form-check-label {
+    font-weight: 100;
+    color: #555;
+    font-family: inherit;
+    font-size: 14px
+}
+
+/* form css */
+
+.form-control {
+    margin-top: 15px !important;
+    padding: 22px;
+}
+
+.form-check-input{
+    margin-top: 30px !important;
+    margin-bottom: 30px !important;
+}
+
+/*button css */
+
+
+.submit-button {
+    width: 100%;
+    margin-bottom: 15px
+}
+
+.forgot-buttons{
+    width: 100%;
+    margin-left: 0px
+}
+
+.create-button{
+    float:right;
+}
