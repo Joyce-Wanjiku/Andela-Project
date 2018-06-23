@@ -5,10 +5,10 @@ This is a web based built in Python, Flask, React, POSTGRESQL.
 I've taken the liberty to add Bootstrap framework to help in responsiveness and enable mobile-first.
 
 
-# LOGIN FORM
+# Login Form
 
-HTML file: login.html
-CSS file: login.css
+HTML file: login.html.
+CSS file: login.css.
 
 I've used boostrap heavily on this form to facilitate efficient UI for the fields and buttons in this form.
 
